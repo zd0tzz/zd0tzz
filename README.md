@@ -5,7 +5,7 @@
 
 ### about Me
 * 🔭 i’m currently working on **game development**
-* 🌱 i’m currently learning C#
+* 🌱 i’m currently learning **WASM and WISP**
 
 ---
 
